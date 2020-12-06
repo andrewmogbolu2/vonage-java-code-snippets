@@ -62,3 +62,4 @@ public class CreateApplication {
         System.out.println(application.toJson());
     }
 }
+}.
